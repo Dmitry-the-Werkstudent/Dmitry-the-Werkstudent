@@ -12,4 +12,4 @@ Hello there 👋
 
 <img src="https://github.com/Dmitry-the-Werkstudent/Dmitry-the-Werkstudent/assets/148325186/55da2102-80cb-4c78-92e4-ee22e29b720d" width=400>
 
-(All images are AI generated, model: AOM3A1B_OrangeMixs)
+<sup><sub>(All images are AI generated, model: AOM3A1B_OrangeMixs)</sub></sup>
