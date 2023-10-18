@@ -7,7 +7,7 @@ Hello there 👋
 * 19 years old
 * I speak Russian, German, English and a bit of Japanese
 * Experienced in JavaScript, Python and lots more
-* I am a working student at doo.net, helping out with the computer stuff
+* I am a working student at doo.net, product consulting and project management
 * Bachelor of Informatics study at Technical University Munich
 
 <img src="https://github.com/Dmitry-the-Werkstudent/Dmitry-the-Werkstudent/assets/148325186/55da2102-80cb-4c78-92e4-ee22e29b720d" width=400>
