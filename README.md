@@ -1,4 +1,4 @@
-# Dmitry The Werkstudent
+# Dmitry the Werkstudent
 
 <img src="https://github.com/Dmitry-the-Werkstudent/Dmitry-the-Werkstudent/assets/148325186/6b6c0003-730c-4b8e-9ce5-5faf8b25cad6" width=400>
 
