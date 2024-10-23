@@ -4,7 +4,7 @@
 
 Hello there 👋
 * My name is Dmitry, but you can call me Dima
-* 19 years old
+* 20 years old
 * I speak Russian, German, English and a bit of Japanese
 * Experienced in JavaScript, Python and lots more
 * I am a working student at doo.net, product consulting and project management
